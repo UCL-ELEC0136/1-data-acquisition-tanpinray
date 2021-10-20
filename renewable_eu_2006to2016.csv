@@ -1,0 +1,309 @@
+country,date,Renewable Energy Consumption (TJ)
+Austria,2016,
+Austria,2015,362355.8
+Austria,2014,363442.2
+Austria,2013,373423.7
+Austria,2012,349194.5
+Austria,2011,323991.8
+Austria,2010,332971.5
+Austria,2009,314198.5
+Austria,2008,312020.0
+Austria,2007,301383.0
+Austria,2006,280593.0
+Belgium,2016,
+Belgium,2015,128345.2
+Belgium,2014,120885.3
+Belgium,2013,116093.9
+Belgium,2012,106269.8
+Belgium,2011,89948.52
+Belgium,2010,86011.18
+Belgium,2009,66733.06
+Belgium,2008,56267.56
+Belgium,2007,46372.26
+Belgium,2006,40459.49
+Bulgaria,2016,
+Bulgaria,2015,69034.96
+Bulgaria,2014,62885.92
+Bulgaria,2013,65572.01
+Bulgaria,2012,59904.57
+Bulgaria,2011,50584.8
+Bulgaria,2010,52298.05
+Bulgaria,2009,41298.57
+Bulgaria,2008,40042.6
+Bulgaria,2007,36455.06
+Bulgaria,2006,41558.91
+Cyprus,2016,
+Cyprus,2015,5857.732
+Cyprus,2014,5354.086
+Cyprus,2013,5408.722
+Cyprus,2012,5158.298
+Cyprus,2011,4963.243
+Cyprus,2010,4337.858
+Cyprus,2009,4115.49
+Cyprus,2008,3814.927
+Cyprus,2007,2943.415
+Cyprus,2006,2262.842
+Czech Republic,2016,
+Czech Republic,2015,142773.3
+Czech Republic,2014,139034.7
+Czech Republic,2013,134716.0
+Czech Republic,2012,124598.5
+Czech Republic,2011,118405.7
+Czech Republic,2010,110296.4
+Czech Republic,2009,102475.4
+Czech Republic,2008,92756.04
+Czech Republic,2007,85907.49
+Czech Republic,2006,83187.21
+Germany,2016,
+Germany,2015,1183042.0
+Germany,2014,1087820.0
+Germany,2013,1030489.0
+Germany,2012,997310.0
+Germany,2011,935657.0
+Germany,2010,889170.7
+Germany,2009,781838.3
+Germany,2008,734775.9
+Germany,2007,775851.8
+Germany,2006,683859.3
+Denmark,2016,
+Denmark,2015,181410.8
+Denmark,2014,159864.5
+Denmark,2013,151355.2
+Denmark,2012,152994.2
+Denmark,2011,139677.6
+Denmark,2010,131443.4
+Denmark,2009,113452.9
+Denmark,2008,113606.2
+Denmark,2007,109862.8
+Denmark,2006,94541.65
+Spain,2016,
+Spain,2015,513540.8
+Spain,2014,541486.8
+Spain,2013,539846.5
+Spain,2012,519522.5
+Spain,2011,506659.2
+Spain,2010,513546.1
+Spain,2009,428621.4
+Spain,2008,368151.7
+Spain,2007,353515.9
+Spain,2006,324023.2
+Estonia,2016,
+Estonia,2015,31570.59
+Estonia,2014,29454.4
+Estonia,2013,29150.83
+Estonia,2012,29590.75
+Estonia,2011,29327.5
+Estonia,2010,30232.7
+Estonia,2009,27581.05
+Estonia,2008,25571.22
+Estonia,2007,23621.78
+Estonia,2006,20375.07
+Finland,2016,
+Finland,2015,418361.2
+Finland,2014,405406.3
+Finland,2013,380913.6
+Finland,2012,391897.7
+Finland,2011,352610.7
+Finland,2010,354714.0
+Finland,2009,313251.8
+Finland,2008,355844.6
+Finland,2007,337542.7
+Finland,2006,331943.0
+France,2016,
+France,2015,760300.4
+France,2014,736346.1
+France,2013,808277.4
+France,2012,725254.3
+France,2011,617406.4
+France,2010,731191.6
+France,2009,669329.4
+France,2008,649586.9
+France,2007,571542.2
+France,2006,530365.3
+United Kingdom,2016,
+United Kingdom,2015,429157.5
+United Kingdom,2014,358785.1
+United Kingdom,2013,309751.8
+United Kingdom,2012,243652.1
+United Kingdom,2011,218559.6
+United Kingdom,2010,198481.1
+United Kingdom,2009,175739.7
+United Kingdom,2008,155496.3
+United Kingdom,2007,102465.0
+United Kingdom,2006,87957.64
+Greece,2016,
+Greece,2015,112744.2
+Greece,2014,99323.25
+Greece,2013,99687.37
+Greece,2012,94858.53
+Greece,2011,84165.89
+Greece,2010,85083.18
+Greece,2009,73483.44
+Greece,2008,68754.46
+Greece,2007,69486.73
+Greece,2006,70386.65
+Croatia,2016,
+Croatia,2015,89589.79
+Croatia,2014,86063.93
+Croatia,2013,88538.09
+Croatia,2012,80441.68
+Croatia,2011,77919.73
+Croatia,2010,88498.82
+Croatia,2009,80443.4
+Croatia,2008,73650.5
+Croatia,2007,68143.04
+Croatia,2006,76442.11
+Hungary,2016,
+Hungary,2015,110073.3
+Hungary,2014,104209.4
+Hungary,2013,117369.9
+Hungary,2012,110845.0
+Hungary,2011,105025.6
+Hungary,2010,95413.92
+Hungary,2009,55963.03
+Hungary,2008,46802.49
+Hungary,2007,42289.62
+Hungary,2006,39121.05
+Ireland,2016,
+Ireland,2015,39051.66
+Ireland,2014,35406.03
+Ireland,2013,30991.7
+Ireland,2012,27549.99
+Ireland,2011,28385.35
+Ireland,2010,24506.98
+Ireland,2009,24565.38
+Ireland,2008,21276.19
+Ireland,2007,18104.71
+Ireland,2006,16449.65
+Italy,2016,
+Italy,2015,778697.1
+Italy,2014,782684.4
+Italy,2013,783549.1
+Italy,2012,708149.9
+Italy,2011,591321.2
+Italy,2010,665169.0
+Italy,2009,642121.3
+Italy,2008,587284.9
+Italy,2007,474291.2
+Italy,2006,411530.8
+Lithuania,2016,
+Lithuania,2015,57858.64
+Lithuania,2014,55507.02
+Lithuania,2013,51772.36
+Lithuania,2012,48282.36
+Lithuania,2011,44837.35
+Lithuania,2010,42569.74
+Lithuania,2009,38577.23
+Lithuania,2008,38622.53
+Lithuania,2007,36597.71
+Lithuania,2006,35605.11
+Luxembourg,2016,
+Luxembourg,2015,13392.29
+Luxembourg,2014,10395.83
+Luxembourg,2013,9008.533
+Luxembourg,2012,6621.974
+Luxembourg,2011,6095.948
+Luxembourg,2010,5982.91
+Luxembourg,2009,5739.787
+Luxembourg,2008,6569.038
+Luxembourg,2007,5968.012
+Luxembourg,2006,3520.942
+Latvia,2016,
+Latvia,2015,58759.11
+Latvia,2014,63668.66
+Latvia,2013,61929.04
+Latvia,2012,66105.85
+Latvia,2011,55857.22
+Latvia,2010,55426.17
+Latvia,2009,63333.61
+Latvia,2008,57299.77
+Latvia,2007,59238.46
+Latvia,2006,58798.35
+Malta,2016,
+Malta,2015,1026.089
+Malta,2014,714.9994
+Malta,2013,454.5403
+Malta,2012,442.7876
+Malta,2011,330.358
+Malta,2010,233.8412
+Malta,2009,38.97911
+Malta,2008,37.97428
+Malta,2007,32.99198
+Malta,2006,27.00486
+Netherlands,2016,
+Netherlands,2015,107380.2
+Netherlands,2014,100912.6
+Netherlands,2013,98861.53
+Netherlands,2012,97473.33
+Netherlands,2011,92264.89
+Netherlands,2010,82182.62
+Netherlands,2009,87267.63
+Netherlands,2008,81354.52
+Netherlands,2007,74957.87
+Netherlands,2006,64827.37
+Poland,2016,
+Poland,2015,302285.7
+Poland,2014,290342.5
+Poland,2013,295061.8
+Poland,2012,287378.6
+Poland,2011,276416.4
+Poland,2010,257873.1
+Poland,2009,223113.7
+Poland,2008,204127.2
+Poland,2007,182391.7
+Poland,2006,179586.8
+Portugal,2016,
+Portugal,2015,169816.1
+Portugal,2014,188091.1
+Portugal,2013,187809.8
+Portugal,2012,161008.0
+Portugal,2011,186850.7
+Portugal,2010,200638.4
+Portugal,2009,181026.2
+Portugal,2008,170115.3
+Portugal,2007,175078.2
+Portugal,2006,165242.4
+Romania,2016,
+Romania,2015,211769.1
+Romania,2014,216582.3
+Romania,2013,206941.3
+Romania,2012,202338.2
+Romania,2011,194702.7
+Romania,2010,220239.0
+Romania,2009,201245.8
+Romania,2008,204146.4
+Romania,2007,175916.3
+Romania,2006,172924.7
+Slovak Republic,2016,
+Slovak Republic,2015,50516.66
+Slovak Republic,2014,45203.45
+Slovak Republic,2013,42541.89
+Slovak Republic,2012,40631.27
+Slovak Republic,2011,42163.81
+Slovak Republic,2010,44596.76
+Slovak Republic,2009,40395.97
+Slovak Republic,2008,33595.95
+Slovak Republic,2007,35058.36
+Slovak Republic,2006,27772.28
+Slovenia,2016,
+Slovenia,2015,40762.94
+Slovenia,2014,42618.89
+Slovenia,2013,43920.92
+Slovenia,2012,40214.33
+Slovenia,2011,38904.87
+Slovenia,2010,40917.03
+Slovenia,2009,38311.66
+Slovenia,2008,30358.91
+Slovenia,2007,28682.43
+Slovenia,2006,29707.29
+Sweden,2016,
+Sweden,2015,679811.9
+Sweden,2014,622659.8
+Sweden,2013,619211.8
+Sweden,2012,650364.5
+Sweden,2011,604701.0
+Sweden,2010,630467.9
+Sweden,2009,596301.6
+Sweden,2008,580866.5
+Sweden,2007,574613.0
+Sweden,2006,548249.7
